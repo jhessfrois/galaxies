@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo Explorer - Rocketseat" src="https://i.imgur.com/ebc86Jp.png" width="300px" />
-</p>
+</p> 
 
 <p align="center">
     Página desenvolvida no curso Explorer da Rocketseat.
